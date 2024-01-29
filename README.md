@@ -8,4 +8,4 @@ Whoever get's it first, wins :)
 
 This game can be played Player-vs-Player or Player-vs-Computer
 
-This project introduces concepts like for loops, while loops and other basic of Python.
+This project introduces concepts like for loops, while loops and other basic of Python. Done in python notebook.
